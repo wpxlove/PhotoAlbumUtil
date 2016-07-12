@@ -1,8 +1,8 @@
 //
 //  PhotoAlbumUtil.swift
-//  WellFit
+//  
 //
-//  Created by Mike on 2016/7/11.
+//  Created by Giles on 2016/7/11.
 //  Copyright © 2016年 Giles. All rights reserved.
 //
 
